@@ -1,6 +1,6 @@
 # Ignore the virtual environment folder
 .venv/
-
+output.mp4
 # Ignore system-specific files
 .DS_Store
 
